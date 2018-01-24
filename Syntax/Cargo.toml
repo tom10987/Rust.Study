@@ -1,0 +1,6 @@
+[package]
+name = "Syntax"
+version = "0.1.0"
+authors = ["tom10987"]
+
+[dependencies]
